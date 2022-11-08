@@ -12,7 +12,7 @@ Buy, trade, sell, and order with others from around the world.
 ## Tech used: ![HTML5 BADGE](https://img.shields.io/static/v1?label=|&message=HTML5&color=23555f&style=plastic&logo=html5)![CSS BADGE](https://img.shields.io/static/v1?label=|&message=CSS3&color=285f65&style=plastic&logo=css3)![JAVASCRIPT BADGE](https://img.shields.io/static/v1?label=|&message=JAVASCRIPT&color=3c7f5d&style=plastic&logo=javascript)
 
 ## Optimizations
-Adding a carousel of images to allow users to show multiple views of their listed items. Adding a pay function to allow users to finish their purchases. A featured section in the feed are and on the home page would have been nice addtions. Adding personalized recommended items for each user.
+Adding a carousel of images to allow users to show multiple views of their listed items. Adding a pay function with stripe to allow users to finish their purchases. A featured section in the feed are and on the home page would have been nice addtions. Adding personalized recommended items for each user.
 
 ## Lessons Learned:
 
