@@ -1,7 +1,7 @@
 # The Grand Exchange
 Buy, trade, sell, and order with others from around the world.
 
-**Link to project:** https://ecom-grand-exchange.herokuapp.com/
+**Link to project:** https://thegrandexchange.cyclic.app/
 
 
    <img src="https://media.giphy.com/media/JFLLdSsutI14mt8ChF/giphy.gif" />
